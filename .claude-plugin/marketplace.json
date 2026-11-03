@@ -1,0 +1,11 @@
+{
+  "name": "content-plugin",
+  "owner": { "name": "hamza-tricking" },
+  "plugins": [
+    {
+      "name": "content-agent",
+      "source": "./content-agent",
+      "description": "A personal content agent for short-video creators: extracts your data, interviews you, maps competitors, builds a strategy, and gives worked example scripts. Content only; you keep control of filming, editing and posting."
+    }
+  ]
+}

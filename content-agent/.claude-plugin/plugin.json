@@ -1,0 +1,17 @@
+{
+  "name": "content-agent",
+  "version": "0.1.0",
+  "description": "A personal content agent for short-video creators (Instagram, TikTok, YouTube Shorts): extracts your own data, interviews you, maps your competitive landscape, builds a strategy and learning plan, gives worked example scripts, and closes the loop with weekly reviews. Content only: you keep full control of filming, editing and posting.",
+  "author": {
+    "name": "content-agent contributors"
+  },
+  "keywords": [
+    "content",
+    "social-media",
+    "strategy",
+    "instagram",
+    "tiktok",
+    "short-video"
+  ],
+  "license": "MIT"
+}
