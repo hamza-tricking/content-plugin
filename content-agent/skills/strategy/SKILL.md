@@ -11,6 +11,7 @@ Show the patience note (see `content-agent` skill) before each grilling round. A
 Decide with the user:
 - **Angle:** what the creator wants ∩ what the audience asks ∩ what nobody covers. A personal-experience angle usually differentiates when the topic itself is crowded.
 - **Pattern portfolio:** several repeatable success patterns, each needing a fresh idea (never one rigid rule). Shares are guesses until measured; judge each pattern after about 10 videos: median views first, then skip rate, then comments.
+- **Patterns are mechanisms, not topics.** Define each pattern by how it hooks and holds (e.g. cost hook, personal bet, test/experiment, audience decides), never by the subject the creator already covers, so a pattern can carry brand-new subjects. Reserve a share of the portfolio for experiments outside the creator's current topics, and follow the freshness rule of the `examples` skill whenever ideas are suggested.
 - **Posting guide:** volume the user believes in, times from the user's own analytics (rough guide, the user decides how each video is made).
 - **Hook rules:** defaults the user can break; test against skip rate.
 - **Conversion route:** only what the user wants now. Followers first; do not push lists, communities or sales before the user wants them.
